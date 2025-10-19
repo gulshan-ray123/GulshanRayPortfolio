@@ -10,7 +10,7 @@ function Project() {
       <div>
         <Card Title="Marksheet Generator" Description="Devloped a website Marksheet Generator a free, easy-to-use web application that automates the process of marksheet creation with a clean and simple UI. Our goal is to help schools and organizations save time, reduce errors, and move toward digital solutions" img="https://i.pinimg.com/736x/3f/a7/a3/3fa7a3f3f4eff2b730de3c584569b694.jpg" linkpage="/Marksheet"/>
 
-        <Card Title="SemPrep" Description="Devlop a website Semprep that help student for there semester preperations. Our goal is to help schools and organizations save time, reduce errors, and move toward digital solutions." img="https://miro.medium.com/v2/resize:fit:826/1*guDemC6-7rq_TueNOJj28w.png" linkpage="/Semprep"/>
+        <Card Title="SemPrep" Description="Devlop a website Semprep that help student for there semester preperations. Our goal is to help schools and organizations save time, reduce errors, and move toward digital solutions." img="http://polteksci.ac.id/blog/wp-content/uploads/2024/04/e-learning-education-template-ve.png" linkpage="/Semprep"/>
       
       <Card Title="Bank Management System" Description="Devlop a banking application/ portal that help banks employee for seamless and smooth functioning of organisation." img="https://static.vecteezy.com/system/resources/previews/015/214/718/original/bank-3d-illustration-icon-png.png" linkpage="/Project_Bank"/>
 

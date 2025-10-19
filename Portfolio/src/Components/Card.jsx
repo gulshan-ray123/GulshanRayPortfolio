@@ -25,7 +25,7 @@ function Card(props) {
       transition={{ type: 'spring', stiffness: 120 }}
     >
       <motion.div
-        className="md:w-96 bg-gray-900 rounded-2xl overflow-hidden shadow-lg text-white mt-14 w-80 ml-3"
+        className="md:w-94 bg-gray-900 rounded-2xl overflow-hidden shadow-lg text-white mt-14 w-80 ml-14"
         variants={fadeUp}
       >
         <motion.img
