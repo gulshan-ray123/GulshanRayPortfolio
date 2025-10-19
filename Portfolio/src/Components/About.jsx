@@ -101,7 +101,7 @@ function About() {
           {/* Stats */}
           <motion.div className="flex gap-6 flex-wrap mb-6" variants={fadeUp}>
             {[
-              { num: "8.4", label: "CGPA" },
+              { num: "8.2", label: "CGPA" },
               { num: "Freshers", label: "Years Experience" },
               { num: "5+", label: "Award Winning" },
             ].map((stat, i) => (
