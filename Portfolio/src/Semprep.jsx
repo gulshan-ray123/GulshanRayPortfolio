@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 function Semprep() {
   return (
-   <section className='h-[200%]  bg-gradient-to-r from-slate-950 to-slate-900  w-[94%]  ml-5 mt-4'>
+   <section className='h-[200%]  bg-gradient-to-r from-slate-950 to-slate-900  md:w-[94%]  md:ml-5 md:mt-4'>
       <h1 className=' hidden md:text-white text-3xl md:flex justify-center relative top-9'>Project Name: SemPrep</h1>
               <h1 className=' block  text-white text-lg  justify-center relative top-9 md:hidden text-center'>Project Name: SemPrep</h1>
                   <div>  <h1 className='text-green-100 flex justify-center mt-20 text-xl font-bold'>Description:</h1>
