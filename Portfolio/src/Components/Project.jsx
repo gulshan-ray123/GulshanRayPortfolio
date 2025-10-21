@@ -3,7 +3,7 @@ import Card from './Card'
 import Marksheet from './Marksheet'
 function Project() {
   return (
-     <section className='h-[200%]  bg-gradient-to-r from-slate-950 to-slate-900  md:w-[92%] w-[100%]  md:ml-5 md:mt-4 '>
+     <section className='h-[200%]  bg-gradient-to-r from-slate-950 to-slate-900  md:w-[92%] w-[85%]  md:ml-5 md:mt-4 '>
       <h1 className='text-white text-center merriweather text-6xl relative top-11'>My Projects</h1>
       <h1 className='text-white text-center merriweather text-5xl relative top-7 opacity-35'>My Projects</h1>
 

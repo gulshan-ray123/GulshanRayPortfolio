@@ -35,7 +35,7 @@ function About() {
   };
 
   return (
-   <div className="bg-[#0f172a] px-4 md:px-16 py-16 text-white md:w-[92%] md:ml-5 md:mt-4">
+   <div className="bg-[#0f172a] px-4 md:px-16 py-16 text-white md:w-[92%] w-[85%] md:ml-5 md:mt-4">
       {/* Heading */}
       <motion.h1
         className="text-4xl md:text-5xl font-bold text-center mb-16 group relative"

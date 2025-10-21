@@ -143,7 +143,7 @@ function Navbar({ toggleGradient, toggleYellow }) {
       </header>
 
 
-       <header className='h-[100%] bg-gradient-to-r from-slate-900 to-slate-800 w-14 ml-[2px] absolute left-[100%] mt-36 block md:hidden'>
+       <header className='h-[100%] bg-gradient-to-r from-slate-900 to-slate-800 w-14 ml-[2px] absolute left-[85%] mt-36 block md:hidden'>
         <table>
           <tbody>
             <tr>

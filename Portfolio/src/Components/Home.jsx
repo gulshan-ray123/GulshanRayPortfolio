@@ -9,7 +9,7 @@ function Home({isDark, isYellow}) {
       <div className='h-[100%]'>
       
     </div>
-      <section className='h-screen  bg-gradient-to-r from-slate-950 to-slate-900  md:w-[92%] w-[100%]  md:ml-5 md:mt-4'>
+      <section className='h-screen  bg-gradient-to-r from-slate-950 to-slate-900  md:w-[92%] w-[85%]  md:ml-5 md:mt-4'>
       <motion.div
   whileHover={{
     rotate: [0, 5, -5, 0],
@@ -21,7 +21,7 @@ function Home({isDark, isYellow}) {
       repeatType: 'loop',
     },
   }}
-  className={`h-[40%] w-[80%] md:h-[50%] left-12 md:w-[25%] bg-gradient-to-br ${
+  className={`h-[40%] w-[70%] md:h-[50%] left-8 md:w-[25%] bg-gradient-to-br ${
     isDark
       ? 'from-purple-600 to-pink-500'
       : 'bg-gradient-to-r from-orange-600 to-pink-700'
@@ -56,8 +56,8 @@ function Home({isDark, isYellow}) {
               <td className='text-white  pl-16 border-r border-red-600'>Problem Solving {`(DSA)`}</td></tr>
           </table>
         </div>
-            <div className='h-[50%]  bg-gradient-to-r from-slate-950 to-slate-900  w-fit border-b border-orange-700 p-1
-        relative md:top-[60%] top-[46%] left-[10%] md:hidden z-0'>
+            <div className='h-[50%]  bg-gradient-to-r from-slate-950 to-slate-900  w-1 border-b border-orange-700 p-1
+        relative md:top-[60%] top-[46%]  md:hidden z-0'>
           <table className='table-auto'>
             <tr>
               <td className='text-white pr-28 pl-28  border-red-600 alumni-sans-sc'>3+</td>
@@ -79,7 +79,7 @@ function Home({isDark, isYellow}) {
             </tr>
           </table>
         </div>
-         <div className='bg-gradient-to-r from-slate-950 to-slate-900 h-[90%] w-[100%] md:w-[92%] absolute md:top-[88%] md:h-[70%] top-[105%] '>
+         <div className='bg-gradient-to-r from-slate-950 to-slate-900 h-[90%] w-[85%] md:w-[92%] absolute md:top-[88%] md:h-[70%] top-[105%] '>
                 {/* <span className='text-center'><h1 className='cascadia-mono md:text-4xl text-center mt-12 md:mt-0 text-2xl'> {'>'}   Full stack developer_</h1></span> */}
                 <span className='text-center'>
                   <motion.div

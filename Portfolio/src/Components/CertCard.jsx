@@ -38,7 +38,7 @@ function CertCard(props) {
 
   return (
     <motion.div
-      className="w-[300px] h-[370px] mt-24 ml-6 md:ml-24 p-6 rounded-xl backdrop-blur-md bg-white/5 border border-white/10 shadow-lg text-center text-white transition-transform duration-300"
+      className="w-[260px] h-[370px] mt-24 ml-6 md:ml-24 p-6 rounded-xl backdrop-blur-md bg-white/5 border border-white/10 shadow-lg text-center text-white transition-transform duration-300"
       initial="hidden"
       whileInView="visible"
       whileHover="hover"

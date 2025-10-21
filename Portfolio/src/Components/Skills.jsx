@@ -43,7 +43,7 @@ const fadeInUp = {
 
 function Skills() {
   return (
-    <section className=" bg-gradient-to-r from-slate-950 to-slate-900 text-white py-16 px-6 md:mt-5 w-[100%] md:ml-12  h-[200%] md:w-[94%]">
+    <section className=" bg-gradient-to-r from-slate-950 to-slate-900 text-white py-16 px-6 md:mt-5 w-[85%] md:ml-12  h-[200%] md:w-[94%]">
       <motion.div
         className="flex justify-center mb-5"
         initial="hidden"
